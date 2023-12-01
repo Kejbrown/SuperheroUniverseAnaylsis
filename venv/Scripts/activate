@@ -38,7 +38,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\keyon\OneDrive\Desktop\New Project\venv"
+=======
+VIRTUAL_ENV="C:\Users\keyon\OneDrive\Documents\GitHub\SuperheroUniverseAnaylsis\venv"
+>>>>>>> origin/main
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
