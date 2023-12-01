@@ -27,3 +27,5 @@ The purpose of this project is to demonstrate a simple data analysis using Pytho
 3. python -m venv venv
 4. venv\Scripts\activate
 5. pip instal -r requirements.txt
+
+If you are unable to review project by forking and cloning this repo, please review the IPYNB on the github website. Thank you 
